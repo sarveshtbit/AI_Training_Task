@@ -1,0 +1,3 @@
+Age,Job,Marital Status,Education,Credit Default,Housing Loan,Personal Loan,Contact Type,Month,Day of Week,Campaign Contacts,Days Since Previous Contact,Previous Contacts,Previous Campaign Outcome,Employment Variation Rate,Consumer Price Index,Consumer Confidence Index,Euribor 3 Month Rate,Number of Employees,Prediction,Subscription Probability,timestamp
+35,admin.,single,university.degree,no,no,no,cellular,may,mon,1,999,0,nonexistent,1.1,93.994,'-36.4,4.857,5191,Customer is unlikely to subscribe,9.95%,2026-09-30 14:57:46.386007
+35,admin.,single,university.degree,no,no,no,cellular,may,mon,1,999,0,nonexistent,1.1,93.994,'-36.4,4.857,5191,,,2026-10-01 07:41:42.704848

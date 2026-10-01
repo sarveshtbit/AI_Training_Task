@@ -1,0 +1,2 @@
+Age,Job,Marital Status,Education,Credit Default,Housing Loan,Personal Loan,Contact Type,Month,Day of Week,Number of Campaign Contacts,Days Since Previous Contact,Previous Contacts,Previous Campaign Outcome,Employment Variation Rate,Consumer Price Index,Consumer Confidence Index,Euribor 3 Month Rate,Number of Employees,Prediction Result,timestamp
+35,admin.,single,university.degree,no,no,no,cellular,may,mon,1,999,0,nonexistent,1.1,93.994,'-36.4,4.857,5191,,2026-09-30 14:32:04.350156
